@@ -4,7 +4,7 @@ An interactive HR Analytics dashboard built with **Python, Streamlit, Pandas, Pl
 
 ## 🚀 Live Demo
 
-👉 [Open Live Dashboard](https://hr-analytics-churn-intelligence-lmjsebcmxbdqq9axquhiw8e.streamlit.app/)
+👉 [Open Live Dashboard](https://hr-analytics-churn-intelligence.streamlit.app/)
 
 ---
 
